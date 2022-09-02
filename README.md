@@ -40,7 +40,7 @@ Para consultar os gastos feitos por um deputado, acesse  área de Transparência
 
 ## Links úteis:
 
-[Projeto em Power BI](https://app.powerbi.com/groups/me/reports/8cff9e27-5d51-45cc-ac5d-dbfac57daf64?ctid=c0c1e86c-2cb3-4c24-bbd1-77371d6e6ae5&pbi_source=linkShare&bookmarkGuid=c40260ef-0f09-488a-934b-a0c99c81afff)
+[Projeto em Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjk2NmIyNGUtNTQ3Ni00NTFkLThmM2EtMzJmMGUxZTg0NzM0IiwidCI6ImMwYzFlODZjLTJjYjMtNGMyNC1iYmQxLTc3MzcxZDZlNmFlNSJ9)
 
 [Portal da Câmara](https://www.camara.leg.br/deputados/quem-sao)
 
