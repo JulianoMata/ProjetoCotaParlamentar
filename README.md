@@ -36,7 +36,7 @@ Os valores mensais são definidos por estado, basicamente por que o custo de des
 * Participação em cursos, congressos ou eventos, realizados por instituição especializada (limite mensal inacumulável de 25% do valor da menor cota);
 * Complementação de auxílio-moradia, de acordo com o Ato da Mesa 104/88 (limite inacumulável de R$1.747,00 mensais).
 
-Para consultar os gastos feitos por um deputado, acesse  área de Transparência do Portal – Cota para Exercício da Atividade Parlamentar, por deputado ou por partido.
+Para consultar os gastos, acesse  área de Transparência do Portal – Cota para Exercício da Atividade Parlamentar, por deputado ou por partido.
 
 ## Links úteis:
 
